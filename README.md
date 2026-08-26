@@ -1,7 +1,6 @@
 # Fatemeh Pakpour
 **Full Stack Engineer**
 
----
 
 ## ABOUT
 
@@ -48,7 +47,11 @@ Feel free to reach out if you'd like me to share my full CV.
 
 ## HOBBIES
 
-- Playing chess and studying openings and endgame theory.
-- Swimming, both for training and for the quiet of long laps.
-- Table tennis, ideally fast rallies with people who take it too seriously.
-- Board games with friends, the longer and more convoluted the better.
+## HOBBIES
+
+- Playing with my son, enjoying the moment and being creative together.
+- Playing chess.
+- Swimming.
+- Table tennis.
+- Board games.
+
