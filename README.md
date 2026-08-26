@@ -1,16 +1,27 @@
-## Hi there 👋
+## Fatemeh Pakpour 👋
 
-<!--
-**Fatemeh-Pakpour/Fatemeh-Pakpour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Backend**
+Node.js · NestJS · REST API design · PostgreSQL · MongoDB · RabbitMQ · Docker · asynchronous processing, retries, and error handling
+
+**Frontend**
+React · TypeScript · JavaScript · Next.js · Redux Toolkit / RTK Query · MobX
+
+**UI & Design Systems**
+MUI · styled-components · Storybook · Figma · responsive layout · accessibility
+
+**Testing**
+Jest · Playwright · unit, integration, and end-to-end testing
+
+**Tooling & Delivery**
+Git · GitHub Actions · CI/CD pipelines · performance optimization · debugging
+
+**Integrations**
+HubSpot · Pipedrive · Salesforce · Storyblok (CMS)
+
+**Ways of Working**
+Agile/Scrum · code review · pair programming · mentoring · cross-functional collaboration
+
+
