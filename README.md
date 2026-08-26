@@ -1,11 +1,5 @@
 # Fatemeh Pakpour
-
-## **Full Stack Engineer**
-
-### **9+ Years Experience**
-
-Copenhagen, Denmark (GMT+1)
-<fapak64@gmail.com>
+**Full Stack Engineer**
 
 ---
 
