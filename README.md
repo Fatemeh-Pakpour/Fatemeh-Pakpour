@@ -16,7 +16,7 @@ Full stack engineer with over **9 years** of experience building and shipping pr
 - **Databases:** PostgreSQL, MongoDB
 - **Testing:** Jest, Playwright, unit / integration / end-to-end testing
 - **DevOps:** CI/CD pipelines, GitHub Actions, performance optimization, debugging
-- **Integrations:** HubSpot, Pipedrive, Salesforce, Storyblok (CMS)
+- **Integrations:** HubSpot, Pipedrive, Storyblok (CMS)
 - **Other:** Git, Agile/Scrum, code review, pair programming, mentoring
 
 ---
