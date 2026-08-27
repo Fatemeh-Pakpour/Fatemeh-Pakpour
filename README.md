@@ -47,8 +47,6 @@ Feel free to reach out if you'd like me to share my full CV.
 
 ## HOBBIES
 
-## HOBBIES
-
 - Playing with my son, enjoying the moment and being creative together.
 - Playing chess.
 - Swimming.
