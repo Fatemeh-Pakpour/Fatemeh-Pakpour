@@ -21,14 +21,6 @@ Senior Frontend / Full Stack Engineer with 9+ years of experience building and d
 
 ---
 
-## EXPERIENCE
-
-I have built customer-facing products at companies including Too Good To Go and Ocean ApS, working across frontend and backend on platforms serving real users at scale. Most recently focused on React and TypeScript, delivering features with RTK Query integrations and full Playwright and Jest coverage. Before that, a full-stack role spanning Node.js and NestJS services, REST APIs, RabbitMQ messaging, and CRM integrations with HubSpot, Pipedrive, and Salesforce. Currently going deeper on backend engineering.
-
-Feel free to reach out if you'd like me to share my full CV.
-
----
-
 ## EDUCATION
 
 ### **Full Stack Web Development**
