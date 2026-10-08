@@ -1,10 +1,10 @@
 # Fatemeh Pakpour
-**Full Stack Engineer**
+**Senior Frontend Engineer|React·TypeScript·Full Stack**
 
 
 ## ABOUT
 
-Full stack engineer with over **9 years** of experience building and shipping production web applications. Deep expertise in TypeScript across the stack — React and Next.js on the frontend, Node.js and NestJS on the backend. Experienced in REST API design, asynchronous message processing, and the error handling, retry, and reliability concerns that come with distributed systems. Comfortable owning a feature end to end, from requirements and estimates through to tests and deployment.
+Senior Frontend / Full Stack Engineer with 9+ years of experience building and delivering customer-facing products using React, TypeScript, and Node.js. Strong track record of owning features end-to-end, from product discussions and technical design to API development, automated testing, and production rollout across international markets. Experienced in improving engineering workflows through AI coding agents, MCP integrations, and development automation, with a focus on code quality and safe delivery. Hands-on experience with CI/CD, GDPR-aware development, and building reliable, intuitive user experiences. Product-minded, proactive, and comfortable taking ownership, solving complex problems, and delivering features that make a real difference for users.
 
 ---
 
